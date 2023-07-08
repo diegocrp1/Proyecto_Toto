@@ -9,7 +9,7 @@ import FormCreate from './components/FormCreate/FormCreate'
 import Detail from './components/Detail/Detail'
 
 let charTest={
-  id:"900",
+  id:"9001",
   name:"Toto",
   age:"555",
   force:"ninguna",
